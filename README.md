@@ -5,7 +5,7 @@
   </a>
 </div>
 
-<img align="right" alt="" height="100px" src="./src/study.gif">
+<img align="right" alt="" height="50px" src="./src/study.gif">
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
